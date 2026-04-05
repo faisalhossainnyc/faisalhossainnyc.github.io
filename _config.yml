@@ -1,3 +1,4 @@
-title: Faisal Hossain — Portfolio
-description: 
-theme: minima
+title: Faisal Hossain
+description: Portfolio
+theme: jekyll-theme-phantom
+remote_theme: jamigibbs/phantom
