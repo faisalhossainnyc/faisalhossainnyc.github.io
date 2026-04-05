@@ -1,7 +1,8 @@
 ---
-layout: home
-title: Faisal Hossain
+layout: default
 ---
+
+# Faisal Hossain
 
 M.S. Information Systems · Baruch College
 
