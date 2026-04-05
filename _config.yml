@@ -1,4 +1,6 @@
 title: Faisal Hossain
 description: Portfolio
-theme: jekyll-theme-phantom
 remote_theme: jamigibbs/phantom
+
+plugins:
+  - jekyll-remote-theme
