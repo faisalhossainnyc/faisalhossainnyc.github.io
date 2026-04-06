@@ -8,7 +8,4 @@ github_username: faisalhossainnyc
 enable_nav: false
 enable_contact: false
 
-plugins:
-  - jekyll-paginate
 
-paginate: 10
