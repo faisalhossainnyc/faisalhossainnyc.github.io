@@ -1,10 +1,6 @@
 ---
-layout: page
+layout: inner
 title: Faisal Hossain
----
-
-M.S. Information Systems · Baruch College
-
 ---
 
 ## Projects
