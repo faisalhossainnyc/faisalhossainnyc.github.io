@@ -1,6 +1,10 @@
 title: Faisal Hossain
 description: Portfolio
-remote_theme: jamigibbs/phantom
+admin_name: Faisal Hossain
+
+enable_nav: false
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-paginate
+
+paginate: 10
