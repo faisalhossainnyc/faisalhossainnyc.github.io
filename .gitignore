@@ -1,0 +1,39 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+.DS_Store
+
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/bundle/
+
+# Generated notebook data and checkpoints
+projects/**/Allegations.csv
+projects/**/Allegations_cleaned.csv
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Internal review and working documents
+CODE_REVIEW.md
+ROADMAP*.md
+REFACTOR_PLAN.md
+REFACTOR_NOTES.md
+CODE_REVIEW_CHECKLIST.md
+REVIEW_CHECKLIST.md
+CLAUDE_PROJECT_INSTRUCTIONS.md
+CLAUDE_INSTRUCTIONS.md
+NOTES.md
+SCRATCH.md
+TODO.md
+PLAN.md
+.claude/
