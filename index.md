@@ -3,8 +3,11 @@ layout: inner
 title: Faisal Hossain
 ---
 
+![Headshot](img/Headshot.jpeg)
+
 # Faisal Hossain
 ### M.S. Information Systems, Baruch College
+**Contact:** [LinkedIn](https://www.linkedin.com/in/faisalhossainnyc)
 
 ---
 
@@ -30,5 +33,3 @@ Investigated a phishing email impersonating the Government of Canada and Service
 
 ### [Fake Google Auth Network Analysis](https://github.com/faisalhossainnyc/fake-google-auth-network-analysis)
 Network traffic analysis of a malvertising operation mimicking a Google Authenticator site
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/faisalhossainnyc)
