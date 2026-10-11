@@ -11,3 +11,10 @@ repository: faisalhossainnyc/faisalhossainnyc.github.io
 enable_nav: false
 enable_contact: false
 
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - CODE_REVIEW.md
