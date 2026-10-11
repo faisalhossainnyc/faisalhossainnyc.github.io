@@ -4,8 +4,10 @@ admin_name: Faisal Hossain
 footer_text: Faisal Hossain
 
 github_username: faisalhossainnyc
+url: https://faisalhossainnyc.github.io
+baseurl: ""
+repository: faisalhossainnyc/faisalhossainnyc.github.io
 
 enable_nav: false
 enable_contact: false
-
 
