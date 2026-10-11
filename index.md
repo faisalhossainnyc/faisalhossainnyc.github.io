@@ -16,11 +16,6 @@ title: Faisal Hossain
 
 ## Projects
 
-### [NYC Civilian Complaint Records](/projects/nyc-civilian-complaints/)
-Exploratory analysis of 10,000 NYC CCRB allegation records using Python and pandas. Examines allegation patterns, recorded outcomes, officer tenure, and how data quality affects interpretation.
-
-[Read report](/projects/nyc-civilian-complaints/) · [View notebook](https://github.com/faisalhossainnyc/faisalhossainnyc.github.io/blob/main/projects/nyc-civilian-complaints/analysis.ipynb)
-
 ### [Vectorscope](https://github.com/faisalhossainnyc/vectorscope)
 A RAG-powered cybersecurity research tool for querying MITRE ATT&CK techniques, CVE descriptions, and threat actor profiles in natural language. Built with ChromaDB, sentence-transformers, and a hybrid retrieval pipeline.
 
@@ -30,6 +25,11 @@ A Model Context Protocol (MCP) server that gives AI assistants programmatic acce
 ---
 
 ## Research
+
+### [NYC Civilian Complaint Records](/projects/nyc-civilian-complaints/)
+Exploratory analysis of 10,000 NYC CCRB allegation records using Python and pandas. Examines allegation patterns, recorded outcomes, officer tenure, and how data quality affects interpretation.
+
+[Read report](/projects/nyc-civilian-complaints/) · [View notebook](https://github.com/faisalhossainnyc/faisalhossainnyc.github.io/blob/main/projects/nyc-civilian-complaints/analysis.ipynb)
 
 ### [Canadian Government Health-Card Phishing Investigation](https://cybersecurityreach.org/investigations/canadian-id-renewal-github-2026)
 Investigated a phishing email impersonating the Government of Canada and Service Canada. Mapped lure assets and redirect chains. Combined email analysis, GitHub artifact analysis, urlscan.io, ANY.RUN, and Certificate Transparency research documenting evidence and limitations.
