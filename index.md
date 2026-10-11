@@ -3,11 +3,14 @@ layout: inner
 title: Faisal Hossain
 ---
 
-![Headshot](img/Headshot.jpeg)
-
-# Faisal Hossain
-### M.S. Information Systems, Baruch College
-**Contact:** [LinkedIn](https://www.linkedin.com/in/faisalhossainnyc)
+<header class="portfolio-header">
+  <div class="portfolio-header__text">
+    <h1>Faisal Hossain</h1>
+    <p class="portfolio-header__summary">M.S. Information Systems, Baruch College</p>
+    <p class="portfolio-header__contact"><strong>Contact:</strong> <a href="https://www.linkedin.com/in/faisalhossainnyc">LinkedIn</a></p>
+  </div>
+  <img class="portfolio-header__headshot" src="{{ '/img/Headshot.jpeg' | relative_url }}" alt="Faisal Hossain" width="160" height="160">
+</header>
 
 ---
 
